@@ -1,0 +1,11 @@
+# Author: Richie Bachala (richie.bachala@snowflake.com)
+step_id: step_7c594236
+slug: restrict-public-role
+title: Restrict PUBLIC Role Grants
+step_type: GENERAL
+published: true
+visibility_conditions:
+- answer_title: rbac_restrict_public
+  enabled: true
+  operator: is
+  value: 'Yes'

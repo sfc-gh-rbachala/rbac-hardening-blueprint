@@ -1,0 +1,11 @@
+# Author: Richie Bachala (richie.bachala@snowflake.com)
+step_id: step_42c202cb
+slug: enforce-managed-access-schemas
+title: Enforce Managed Access Schemas
+step_type: GENERAL
+published: true
+visibility_conditions:
+- answer_title: rbac_enforce_managed_access
+  enabled: true
+  operator: is
+  value: 'Yes'

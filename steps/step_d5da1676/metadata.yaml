@@ -1,0 +1,11 @@
+# Author: Richie Bachala (richie.bachala@snowflake.com)
+step_id: step_d5da1676
+slug: configure-privilege-change-alerts
+title: Configure Privilege Change Alerts
+step_type: GENERAL
+published: true
+visibility_conditions:
+- answer_title: rbac_enable_alerts
+  enabled: true
+  operator: is
+  value: 'Yes'
