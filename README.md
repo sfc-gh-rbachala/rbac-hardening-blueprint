@@ -1,5 +1,7 @@
 # RBAC Hardening Blueprint
 
+> **Disclaimer:** This is a community contribution, not an official Snowflake product. It is provided as-is with no warranty or official support. Use at your own discretion and review all generated SQL before executing in your environment.
+
 A [Blueprint Manager](https://github.com/Snowflake-Labs/blueprint-manager) blueprint that audits, hardens, and monitors role-based access controls (RBAC) across a Snowflake account.
 
 ## What It Does
